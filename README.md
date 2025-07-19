@@ -38,16 +38,16 @@ Website is under construction. <br/>
 <img src="https://github.com/komaldhiman1/Student-Result-Management-System/blob/main/Student-Result-Management-System-master/images/screenshot01.PNG">
 
 ### Login 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot02.PNG">
+<img src="https://github.com/komaldhiman1/Student-Result-Management-System/blob/main/Student-Result-Management-System-master/images/screenshot02.PNG">
 
 ### Dashboard | Manage Student  
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot03.PNG">
+<img src="https://github.com/komaldhiman1/Student-Result-Management-System/blob/main/Student-Result-Management-System-master/images/screenshot03.PNG">
 
 ### Dashboard | Enter Marks 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot04.PNG">
+<img src="https://github.com/komaldhiman1/Student-Result-Management-System/blob/main/Student-Result-Management-System-master/images/screenshot04.PNG">
 
 ### Student Marks 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot05.PNG">
+<img src="https://github.com/komaldhiman1/Student-Result-Management-System/blob/main/Student-Result-Management-System-master/images/screenshot05.PNG">
 
  
 
