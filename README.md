@@ -47,7 +47,7 @@ Website is under construction. <br/>
 <img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot04.PNG">
 
 ### Student Marks 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot05.PNG">
+<img src="https://github.com/komaldhiman1/Student-Result-Management-System/blob/master/images/screenshot05.PNG">
 
  
 
